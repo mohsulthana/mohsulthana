@@ -2,6 +2,10 @@
 
 ### This file is under construction....
 
+🔭 I’m currently studying on http://infinitelearning.id
+
+![](https://github.com/mohsulthana/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mohsulthana/github-stats/blob/master/generated/languages.svg)
 <!--
 **mohsulthana/mohsulthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
