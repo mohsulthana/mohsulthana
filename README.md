@@ -2,7 +2,7 @@
 
 ### This file is under construction....
 
-🔭 I’m currently studying at http://infinitelearning.id
+🔭 I’m currently studying at Apple Developer Academy http://infinitelearning.id.
 🌱 I’m currently learning Swift, Competitive Programming, and Javascript Vue.js framework
 
 ![](https://github.com/mohsulthana/github-stats/blob/master/generated/overview.svg)
