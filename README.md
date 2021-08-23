@@ -1,8 +1,6 @@
-### Hi there 👋
-
-### This file is under construction....
-
+### Hi there, Sulthan here 👋
 🔭 I’m currently studying at Apple Developer Academy http://infinitelearning.id.
+
 🌱 I’m currently learning Swift, Competitive Programming, and Javascript Vue.js framework
 
 ![](https://github.com/mohsulthana/github-stats/blob/master/generated/overview.svg)
