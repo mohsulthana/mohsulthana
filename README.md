@@ -1,5 +1,7 @@
 ### Hi there, Sulthan here 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsulthana/)
+
+
 🔭 I’m currently studying at Apple Developer Academy http://infinitelearning.id.
 
 🌱 I’m currently learning Swift, Competitive Programming, and Javascript Vue.js framework
