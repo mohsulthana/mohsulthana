@@ -1,10 +1,10 @@
 ### Hi there, Sulthan here 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsulthana/)
 
-
-🔭 I’m currently studying at Apple Developer Academy http://infinitelearning.id.
-
-🌱 I’m currently learning Swift, Competitive Programming, and Javascript Vue.js framework
+- ✨ A VueJS freelancer. An iOS developer.
+- 🔭 I’m in a state of learning at Apple Developer Academy http://infinitelearning.id.
+- 💬 More about me at https://mohsulthana.com/
+- 😄 He/him
 
 ![](https://github.com/mohsulthana/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/mohsulthana/github-stats/blob/master/generated/languages.svg)
