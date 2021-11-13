@@ -6,6 +6,7 @@
 - 💬 More about me at https://mohsulthana.com/
 - 😄 He/him
 
+[![wakatime](https://wakatime.com/badge/github/miftahjuanda/Macro-Project.svg)](https://wakatime.com/badge/github/miftahjuanda/Macro-Project)
 ![](https://github.com/mohsulthana/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/mohsulthana/github-stats/blob/master/generated/languages.svg)
 <!--
