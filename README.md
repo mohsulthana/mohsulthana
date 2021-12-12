@@ -1,7 +1,7 @@
 ### Hi there, Sulthan here 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsulthana/)
 
-- ✨ A VueJS freelancer. An iOS developer.
+- ✨ VueJs Dev, iOS developer.
 - 🔭 I’m in a state of learning at Apple Developer Academy http://infinitelearning.id.
 - 💬 More about me at https://mohsulthana.com/
 - 😄 He/him
