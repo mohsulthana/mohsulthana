@@ -3,7 +3,7 @@
 
 - ✨ VueJs Dev, iOS engineer.
 - 🔭 Graduate Apple Developer Academy http://infinitelearning.id 2021.
-- 💬 More about me at https://mohsulthana.com/
+- 💬 More about me at https://www.mohsulthana.com/
 - 😄 He/him
 
 ![](https://github.com/mohsulthana/github-stats/blob/master/generated/overview.svg)
