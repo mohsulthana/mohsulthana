@@ -2,12 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsulthana/)
 
 - ✨ VueJs Dev, iOS engineer.
-- 🔭 Graduate Apple Developer Academy http://infinitelearning.id 2021.
 - 💬 More about me at https://www.mohsulthana.com/
 - 😄 He/him
 
-![](https://github.com/mohsulthana/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/mohsulthana/github-stats/blob/master/generated/languages.svg)
 <!--
 **mohsulthana/mohsulthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
